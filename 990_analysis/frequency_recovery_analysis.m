@@ -21,3 +21,5 @@ legend({'Freq, MR 0.3',
     'Fixed freq, MR 0.5',
     'Fixed freq, MR 0.65',});
 
+ylabel('log absolute distance')
+xlabel('DCT component')
